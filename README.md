@@ -16,7 +16,7 @@
 
 ### How is my projects?
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cvandia&show_icons=true&theme=tokyonight)
+![Cvandia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cvandia&show_icons=true&theme=tokyonight)
 
 ### What i m using?
 
